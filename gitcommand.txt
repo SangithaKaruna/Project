@@ -1,0 +1,10 @@
+1. git --version
+2. git config --global user.name "type your name here"
+3. git config --global user.email "type your emailhere"
+4. git config --list ( list all of our settings) or 
+4.1 to list a specific detail like.. your email alone
+git config user.email
+5.git help or in specific eg. git help commit
+6. pwd
+7. cd ~ (go to home directory)
+8. cd .. (go back one step)
